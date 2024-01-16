@@ -1,2 +1,28 @@
-# desafio-felipao-2
-Desafio proposto pelo Felipao da DIO.
+# Desafio do Felipão 2
+
+## O que é?
+- Foi um desafio de projeto proposto pelo Felipão da [DIO](https://web.dio.me/home), criando uma **Calculadora de Partidas Ranqueadas**, calculando o ranking do jogador baseado no saldo de vitoria do mesmo. Onde foi utilizado o conhecimento acerca do que foi visto nos módulos 2, 3 , 4 e 5 do Bootcamp [Potência Tech iFood - Programação do Zero](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero).
+
+### O que foi utlizado?
+Lógica de Programação com os conceitos de:
+
+* Variáveis
+* Operadores
+* Laços de Repetição
+* Estruturas de Decisão
+* Funções
+
+#### Linguagem:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Conecte-se comigo
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:juniorbmelo12@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-junior-576719297/) 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorbm.wn/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junioom)
+
+
